@@ -1,4 +1,4 @@
 CoreToolkit
 Test
-ProcessOptmizer
+ProcessOptimizer
 SystemGuardian
